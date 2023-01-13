@@ -9,4 +9,10 @@ There's no way to manage BI report , how manay reports are scheduled and which r
 
 
 To use this program.  You need to provide your login credentials.  It will help you download the report in XLSX format.
-It will download 2 files. All report scheduled by your account and Reports scheduled in the public dicrectory.
+
+
+new function added.
+
+Download reports:
+1. your BI scheduled reports: report 1, 2 3
+2. schedule details. Including :  report export detail, report schedule period, report email to :[xxx@gmail.com,132@gmail.com] 
